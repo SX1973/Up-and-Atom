@@ -1,5 +1,7 @@
 # Silk Road Nuclear Light · 丝路核光
 
+🏆 **Best Project — HackAtom 2026 English Division**
+
 **HackAtom 2026 — Hainan Changjiang International SMR Complex**
 
 An interactive 3D digital twin of the world's first Linglong-One (ACP100) SMR complex, integrating medical isotope production, nuclear science education, and zero-carbon circular agriculture into one immersive web experience.
