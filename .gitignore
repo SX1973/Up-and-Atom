@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.DS_Store
+*.local
+# Project proposal / plan docs
+*方案书*
+*计划书*
+*proposal*
+CLAUDE.md
+.claude/
