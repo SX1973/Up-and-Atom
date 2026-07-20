@@ -82,10 +82,7 @@ export default function HomePage() {
               <p className="text-sm md:text-base text-white/75 max-w-xl mx-auto">
                 World's First Linglong-One SMR &middot; Hainan Changjiang &middot; Gateway to Southeast Asia
               </p>
-              <p className="mt-4 inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-amber-400/20 border border-amber-300/40 text-amber-200 text-sm font-semibold backdrop-blur-sm">
-                🏆 Best Project — HackAtom 2026 English Division
-              </p>
-              <div className="flex gap-4 mt-6 justify-center">
+              <div className="flex gap-4 mt-8 justify-center">
                 <Link to="/about" className="px-6 py-3 bg-white/70 hover:bg-white/90 border border-white/30 rounded-full text-sm transition-colors text-slate-800 font-medium">
                   Learn More
                 </Link>
